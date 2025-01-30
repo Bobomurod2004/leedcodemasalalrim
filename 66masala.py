@@ -17,3 +17,5 @@ result +=1
 digits1=[int(kiritish) for kiritish in str(result)]
 print(digits1)
 
+
+
